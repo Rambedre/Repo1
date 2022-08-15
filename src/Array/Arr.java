@@ -15,6 +15,7 @@ public class Arr {
 		Arr1[3]=400;
 		Arr1[4]=500;
 		
+		
 		for(int i:Arr1) {
 			System.out.println(i);
 		}
