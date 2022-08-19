@@ -21,7 +21,7 @@ public class Stringhand {
 		System.out.println(obj.h.compareTo(ss));
 		System.out.println(a.toUpperCase());
 		System.out.println(ss.toLowerCase());
-		
+		System.out.println("Todays Changes");
 		
 		
 		
